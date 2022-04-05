@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wisata App</string>
+    <string name="image_data_empty">Empty Image</string>
+    <string name="data_not_found">Data Belum Ada</string>
+    <string name="txt_label_show_destination">Mau kemana ?</string>
+    <string name="txt_menu_label">Kategori</string>
+    <string name="image_destination">Image Destination</string>
+    <string name="txt_network_error">Kesalahan Jaringan</string>
+    <string name="txt_lbl_detail_destination_desc">Keterangan</string>
+    <string name="image_desc">Image Desc</string>
+    <string name="txt_lbl_welcome">Selamat Datang</string>
+    <string name="txt_wisata_app">Wisata App</string>
+</resources>
